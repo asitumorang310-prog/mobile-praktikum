@@ -1,17 +1,19 @@
-# aplikasi_pertama
+# Aplikasi Pertama
 
-A new Flutter project.
+## Tujuan
 
-## Getting Started
+Aplikasi ini dibuat sebagai proyek praktikum Pemrograman Berbasis Mobile untuk mempelajari pengembangan aplikasi menggunakan Flutter.
 
-This project is a starting point for a Flutter application.
+## Rencana Fitur
 
-A few resources to get you started if this is your first Flutter project:
+* Menampilkan halaman utama aplikasi.
+* Menampilkan informasi atau konten aplikasi.
+* Mengembangkan tampilan dan fungsi aplikasi sesuai kebutuhan praktikum.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Cara Menjalankan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Pastikan Flutter sudah ter-install.
+2. Buka folder project menggunakan Visual Studio Code.
+3. Jalankan perintah `flutter pub get` pada terminal.
+4. Hubungkan perangkat Android atau jalankan Android Emulator.
+5. Jalankan aplikasi dengan perintah `flutter run`.
